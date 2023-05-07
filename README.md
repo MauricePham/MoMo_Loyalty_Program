@@ -43,3 +43,7 @@ The basic idea behind the KElbowVisualizer is to plot the within-cluster sum of 
   - Reject the H0 
 6. Conclusion
   - Dendogram
+
+## The end
+This is my personal project, I presented this project for final term at school. I got 95/100 from my teacher. But not being too humble, I am just being inquisitive, enthusiastic that I really really to improve my project, make it better so do not hesitate to contact me if you have found something that can be done better in this project, I deeply appreciate it a lot.
+My LinkedIn: https://www.linkedin.com/in/huypham040100/
