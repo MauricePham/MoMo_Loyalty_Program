@@ -2,6 +2,11 @@
 
 # [Python] Analyze Customer Behaviour from MoMo Loyalty Program
 
+## Acknowledgement
+Thank you teacher Trung Duc Tran for gently marked my project as 95/100 and commented truthfully so I can learn a lot more.
+
+Trung Duc Tran's profile: https://www.researchgate.net/profile/Trung-Tran-31
+
 ## Introduction
 
 Users' retention has always been one of the key targets that MoMo is striving to be better. A Loyalty program called "MoMo hoàn tiền" - one of the projects aiming to achieve such goal was launched from January 1st 2021 to March 2022.
@@ -45,5 +50,7 @@ The basic idea behind the KElbowVisualizer is to plot the within-cluster sum of 
   - Dendogram
 
 ## The end
-This is my personal project, I presented this project for final term at school. I got 95/100 from my teacher. But not being too humble, I am just being inquisitive, enthusiastic that I really really to improve my project, make it better so do not hesitate to contact me if you have found something that can be done better in this project, I deeply appreciate it a lot.
+
+This is my personal project, I presented this project for final term at school. I got 95/100 from my teacher. But not being too humble, I am just being inquisitive, enthusiastic that I really really desire to improve my project, make it better so do not hesitate to contact me if you have found something that can be done better in this project, I deeply appreciate it a lot.
+
 My LinkedIn: https://www.linkedin.com/in/huypham040100/
